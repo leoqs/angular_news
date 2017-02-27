@@ -1,0 +1,22 @@
+{
+  "name": "angular_news",
+  "homepage": "https://github.com/leoqs/angular_news",
+  "authors": [
+    "Leo <leo@test.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.2",
+    "angular-resource": "^1.6.2",
+    "angular-ui-router": "^0.4.2"
+  }
+}
